@@ -1,0 +1,14 @@
+/opt/gridengine/default/spool/compute-0-1/job_scripts/114553: line 9: 51095 Segmentation fault      (core dumped) nohup ./random
+mkdir: cannot create directory ‘outputs’: File exists
+../N-body/output.nbody_13.000
+3623878656 452984832
+../N-body/output.nbody_11.000
+3623878656 452984832
+../N-body/output.nbody_10.000
+3623878656 452984832
+../N-body/output.nbody_9.000
+3623878656 452984832
+../N-body/output.nbody_8.000
+3623878656 452984832
+../N-body/output.nbody_7.000
+3623878656 452984832
